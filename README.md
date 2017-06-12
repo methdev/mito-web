@@ -10,9 +10,9 @@ Contact Mito: https://twitter.com/FaZeMito
 
 - Virtually all text is currently placeholder, will need to be changed
 - High quality banner images (at least 1920x500)
-- ~~Possible theme alterations ~~
-- ~~ Social Links Altered ~~
-- ~~ Enter Button Added ~~
+- ~~Possible theme alterations~~
+- ~~Social Links Altered~~
+- ~~Enter Button Added~~
 
 Built using the Xone Portfolio Theme on top of Bootstrap 4.
 
