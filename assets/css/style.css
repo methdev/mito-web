@@ -1750,3 +1750,11 @@ Footer styles
     top: -2px;
     letter-spacing: 7px;
 }
+
+.disable-scroll {
+  overflow-y: hidden;
+}
+
+section {
+  overflow-y: auto;
+}
